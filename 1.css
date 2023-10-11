@@ -1,0 +1,31 @@
+*{
+  margin: 0px;
+}
+
+
+.artist{
+  background-color: aqua;
+}
+
+.artistin{
+ display: flex;
+  padding: 20px;
+ margin-right: 100px;
+  background-color: blueviolet;
+  height: 300px;
+  border-radius: 200px 10px 10px 200px;
+  gap: 20px;
+}
+
+.artistimage{
+  
+  height: 300px;
+  background-color: blue;
+  border-radius:150px ;
+
+}
+
+.artistinfo{
+  
+}
+

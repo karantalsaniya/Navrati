@@ -1,0 +1,389 @@
+*{
+    margin: 0px;
+  }
+  #nav
+  {   display: flex;
+      background-color: #420000;
+      gap: 30px;
+  }
+  #logo1
+  {   display: flex;
+    gap: 40px;
+    font-size: 1.5rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    padding-left: 20px;
+    margin-bottom: 5px;
+   
+    
+    
+      }
+      .head
+      {
+        text-decoration: none;
+       margin-top: 35px;
+        color:#f7b952;
+        
+      }
+      .a
+      {
+padding-top: 35px;
+      }
+  #logo
+  {
+      margin-left: 140px;
+  }
+  
+  .background_image
+  {
+    background-image: url(image/back.jpeg);
+    
+    
+     background-repeat: no-repeat;
+     /* background-position: center; */
+     background-size: cover;
+     padding: 20px;
+     height: 100%;
+     
+     /* opacity: 0.5; */
+    
+     /* backdrop-filter: blur(50px); */
+  }
+  #di{
+    background-color: #f09819;
+  }
+
+  .dayodd
+  {
+    display: flex;
+    margin-top: 50px;
+    margin-left: 200px;
+    
+  }
+  .imageodd
+  {
+    height: 250px;
+    width: px;
+    border-radius: 10px;
+  }
+  .headodd
+  {
+    padding-left: 30px;
+    color:#f09819 ;
+    text-decoration: none;
+    
+  }
+  .dayeven
+  {
+    display: flex;
+    margin-top: 50px;
+    margin-left: 160px;
+  }
+  
+  .headeven
+  {
+    
+    padding-left: 250px;
+    color:#f09819 ;
+    text-decoration: none;
+  }
+
+  .imageven
+  {border-radius: 10px;
+    margin-left: 30px;
+    height:250px;
+    
+    
+  }
+
+  #note
+  {
+    font-size:1.5rem ;
+    color: #f09819;
+    font-family:'Roboto Slab', serif;
+  }
+
+  .info
+  {
+    margin-top: 20px; 
+    font-size: 1.2rem; color: rgba(228, 219, 219, 0.901); 
+  }
+  
+  
+  
+  
+  
+  /* CSS */
+  .button-87 {
+      margin-top: 30px;
+    margin-left: 270px;
+    padding: 15px 30px;
+    text-align: center;
+    text-transform: uppercase;
+    transition: 0.5s;
+    background-size: 200% auto;
+    color: white;
+    border-radius: 10px;
+    display: block;
+    border: 0px;
+    font-weight: 700;
+    box-shadow: 0px 0px 14px -7px #f09819;
+    background-image: linear-gradient(45deg, #f8b954 0%, #f8b954  51%, #f8b954  100%);
+    cursor: pointer;
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+  }
+  
+  .button-87:hover {
+    background-position: right center;
+    /* change the direction of the change here */
+    color: #790037;
+    text-decoration: none;
+  }
+  
+  .button-87:active {
+    transform: scale(0.95);
+  }
+
+  #navend1
+  {   
+     background-color: #0d0000;
+    gap: 50px;
+}
+  #navend
+  {   
+     
+      gap: 50px;
+  }
+  #logo3
+  {   display: flex;
+    gap: 20px;
+    font-size: 1.5rem;
+    
+    
+   
+    padding-left: 100px;
+    margin-bottom: 5px;
+    
+    
+    
+      }
+      .heade
+      {
+        
+       margin-top: 5px;
+       font-size: 1.75rem;
+       margin-left: 540px;
+        color:#f7b952
+      }
+
+      
+
+  #logo2
+  {   
+   
+      margin-top: 10px;
+    
+  }
+
+
+  .PreviousNext{
+    text-decoration: none;
+    color: white;
+    background: #f09819;
+    padding: 7px 10px;
+    border-radius: 4px;  
+    font-size: 19px;
+ }
+ .PreviousNext:hover{
+    background: rgb(220 53 69 / 85%);
+ }
+ .PreviousNext:focus{
+     outline: 3px solid rgb(220 53 69 / 50%);
+    
+ }
+ #np{
+    display: flex;
+    margin-left:485px ;
+    gap: 30px;
+    margin-top: 50px;
+ }
+
+ #np1{
+  display: flex;
+  margin-left:530px ;
+  gap: 30px;
+  margin-top: 50px;
+}
+
+#np2{
+  display: flex;
+  margin-left:530px ;
+  gap: 30px;
+  margin-top: 50px;
+}
+
+
+#headday1
+{
+  margin-top: 10px;
+}
+  
+  
+
+
+#classday1
+{
+  color: white;
+  background-color: #f09819;
+ 
+  border-radius: 10px;
+  padding: 5px;
+  
+}
+.dayodd1
+  {
+    display: flex;
+    margin-top: 50px;
+    margin-left: 200px;
+    
+  }
+  .imageodd1
+  {
+    height: 250px;
+    width: px;
+    border-radius: 10px;
+  }
+
+  .s1{
+   
+    
+    color:white ;
+    
+  }
+  .headodd1
+  {
+    padding-left: 30px;
+    padding-right: 200px;
+    color:#f09819 ;
+    font-size: 1.5rem;
+    
+    
+  }
+  .s1{
+   
+    
+    color:white ;
+    
+  }
+
+  #headday2
+{
+  margin-top: 50px;
+}
+  
+  
+
+
+#classday2
+{
+  color: #420000;
+  background-color: #f09819;
+ 
+  border-radius: 10px;
+  padding: 5px;
+  
+}
+
+
+
+
+
+
+.artistin{
+ display: flex;
+  padding: 20px;
+  margin-top: 40px;
+  margin-left: 170px;
+ margin-right: 100px;
+  
+  height: 230px;
+  border-radius: 115px 10px 10px 115px;
+  gap: 20px;
+}
+
+.artistimage{
+  
+  height: 230px;
+  
+  border-radius:115px ;
+
+}
+
+.artistinfo
+{
+  margin-top: 50px;
+  padding-left: 30px;
+  padding-right: 100px;
+  color:#f09819 ;
+  font-size: 1.5rem;
+  
+}
+
+
+.artistin2{
+  display: flex;
+   padding: 20px;
+   margin-top: 40px;
+   margin-left: 170px;
+  margin-right: 160px;
+   
+   height: 230px;
+   border-radius: 115px 10px 10px 115px;
+   gap: 20px;
+ }
+ 
+ .artistimage2{
+   
+   height: 230px;
+   
+   border-radius:115px ;
+ 
+ }
+ 
+ .artistinfo2
+ {
+   margin-top: 50px;
+   padding-left: 60px;
+   padding-right: 20px;
+   color:#f09819 ;
+   font-size: 1.5rem;
+   
+ }
+
+
+.a1{
+ 
+  
+  color:white ;
+  
+}
+.a2{
+ 
+  
+  color:white ;
+  
+}
+
+
+.gift
+{
+  display: flex;
+  margin-left: 370px;
+}
+
+.giftimage
+{
+  margin-left: 250px;
+}
